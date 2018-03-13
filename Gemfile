@@ -71,6 +71,7 @@ group :development do
   gem 'capistrano-rails',   require: false
   gem 'capistrano-rbenv',   require: false
   gem 'capistrano3-puma',   require: false
+  gem 'io-console',         require: false
   gem 'rbnacl', '>= 3.2', '< 5.0', require: false
   #gem 'rbnacl-libsodium', require: false
   gem 'bcrypt_pbkdf', '>= 1.0', '< 2.0', require: false
